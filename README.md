@@ -34,7 +34,7 @@
 
 
 # 💻Tech Stack   <img src="https://githubraw.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  <img src="https://githubraw.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://githubraw.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-<a href="#"><img src="https://img.shields.io/website?down_color=red&down_message=Under%20work&label=Portfolio&logo=github&style=for-the-badge&up_color=blue&up_message=Working&url=https://google.com/"></a>
+<a href="https://ardiansyahputra.my.id"><img src="https://img.shields.io/website?down_color=red&down_message=Visit%20MySite&label=Portfolio&logo=github&style=for-the-badge&up_color=blue&up_message=Working&url=https://google.com/"></a>
 
 ---
   
